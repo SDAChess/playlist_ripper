@@ -1,0 +1,22 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# Backup files #
+*.bak
+
+.direnv/
+
+.DS_Store
+.idea/
+*.log
+tmp/
+
+*.py[cod]
+*.egg
+build
+htmlcov
